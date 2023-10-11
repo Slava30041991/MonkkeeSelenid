@@ -27,10 +27,5 @@ public class RegistrationTests extends BaseTests {
 
 
 
-
-
-
-
-
     }
 }
